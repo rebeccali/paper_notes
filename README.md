@@ -1,2 +1,2 @@
-# paper_notes
-Reviews of research papers 
+# Research Paper Notes
+Reviews of research papers. 
