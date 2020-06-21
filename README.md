@@ -6,3 +6,4 @@ Reviews of research papers.
 * [Hindsight Experience Replay](https://github.com/rebeccali/paper_notes/blob/master/2020/Hindsight_experience_replay.md)
 * [Limits and Potentials of Deep Learning in Robotics](https://github.com/rebeccali/paper_notes/blob/master/2020/limits_potentials_deep_learning_robotics.md)
 * [Rainbow: Combining Improvements in Deep Reinforcement Learning](https://github.com/rebeccali/paper_notes/blob/master/2020/Rainbow.md)
+* [Relational inductive biases, deep learning, and graph networks](https://github.com/rebeccali/paper_notes/blob/master/2020/relational_inductive_biases.md)
