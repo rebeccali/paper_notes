@@ -8,4 +8,5 @@ Reviews of research papers.
 * [Rainbow: Combining Improvements in Deep Reinforcement Learning](https://github.com/rebeccali/paper_notes/blob/master/2020/Rainbow.md)
 * [Relational inductive biases, deep learning, and graph networks](https://github.com/rebeccali/paper_notes/blob/master/2020/relational_inductive_biases.md)
 * [Learning Decentralized Controllers for Robot Swarms with Graph Neural Networks](https://github.com/rebeccali/paper_notes/blob/master/2020/learning_decentralized_controllers_GNN.md)
+* [A Comprehensive Survey on Graph Neural Networks](https://github.com/rebeccali/paper_notes/blob/master/2020/survey_gnn.md)
 
